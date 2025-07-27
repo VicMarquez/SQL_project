@@ -1,0 +1,51 @@
+nombre_cientifico,id_polinizador,grupo_funcional,id_estudio
+Trigona spinipes_1,1,Abejas solitarias,24
+Glossophaga soricina_2,2,Mariposas,48
+Melipona quadrifasciata_3,3,Colibríes,44
+Cetonia aurata_4,4,Escarabajos florales,22
+Trigona spinipes_5,5,Murciélagos nectarívoros,38
+Bombus terrestris_6,6,Moscas sírfidas,48
+Apis mellifera_7,7,Murciélagos nectarívoros,21
+Trigona spinipes_8,8,Abejas solitarias,27
+Melipona quadrifasciata_9,9,Mariposas,29
+Cetonia aurata_10,10,Murciélagos nectarívoros,9
+Thalurania glaucopis_11,11,Colibríes,24
+Bombus terrestris_12,12,Abejas solitarias,4
+Cetonia aurata_13,13,Murciélagos nectarívoros,2
+Syrphus ribesii_14,14,Escarabajos florales,36
+Trigona spinipes_15,15,Moscas sírfidas,13
+Thalurania glaucopis_16,16,Abejas sociales,45
+Glossophaga soricina_17,17,Moscas sírfidas,43
+Melipona quadrifasciata_18,18,Mariposas,13
+Eumaeus childrenae_19,19,Murciélagos nectarívoros,18
+Melipona quadrifasciata_20,20,Abejas sociales,49
+Thalurania glaucopis_21,21,Escarabajos florales,2
+Syrphus ribesii_22,22,Mariposas,19
+Glossophaga soricina_23,23,Colibríes,44
+Melipona quadrifasciata_24,24,Abejas sin aguijón,11
+Bombus terrestris_25,25,Moscas sírfidas,39
+Cetonia aurata_26,26,Mariposas,13
+Melipona quadrifasciata_27,27,Mariposas,44
+Cetonia aurata_28,28,Escarabajos florales,16
+Syrphus ribesii_29,29,Mariposas,48
+Glossophaga soricina_30,30,Escarabajos florales,24
+Glossophaga soricina_31,31,Abejas sociales,28
+Eumaeus childrenae_32,32,Abejas sin aguijón,2
+Bombus terrestris_33,33,Murciélagos nectarívoros,41
+Thalurania glaucopis_34,34,Mariposas,26
+Glossophaga soricina_35,35,Moscas sírfidas,26
+Thalurania glaucopis_36,36,Escarabajos florales,17
+Syrphus ribesii_37,37,Escarabajos florales,2
+Eumaeus childrenae_38,38,Abejas solitarias,24
+Thalurania glaucopis_39,39,Abejas sin aguijón,30
+Euglossa cordata_40,40,Moscas sírfidas,16
+Apis mellifera_41,41,Mariposas,16
+Eumaeus childrenae_42,42,Moscas sírfidas,9
+Syrphus ribesii_43,43,Murciélagos nectarívoros,25
+Melipona quadrifasciata_44,44,Abejas solitarias,6
+Thalurania glaucopis_45,45,Abejas sin aguijón,5
+Glossophaga soricina_46,46,Abejas solitarias,47
+Apis mellifera_47,47,Mariposas,40
+Heliconius erato_48,48,Mariposas,3
+Apis mellifera_49,49,Escarabajos florales,23
+Melipona quadrifasciata_50,50,Abejas solitarias,31
